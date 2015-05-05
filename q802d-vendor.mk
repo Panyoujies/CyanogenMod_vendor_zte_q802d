@@ -22,4 +22,4 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libmdmdetect
 
-$(call inherit-product, vendor/zte/q802d/Kraft_T-vendor-blobs.mk)
+$(call inherit-product, vendor/zte/q802d/q802d-vendor-blobs.mk)
