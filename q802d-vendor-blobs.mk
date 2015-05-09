@@ -99,7 +99,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/q802d/proprietary/etc/permissions/com.qualcomm.location.vzw_library.xml:system/etc/permissions/com.qualcomm.location.vzw_library.xml \
     vendor/zte/q802d/proprietary/etc/permissions/com.qualcomm.wfd.permissions.xml:system/etc/permissions/com.qualcomm.wfd.permissions.xml \
     vendor/zte/q802d/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
-    vendor/zte/q802d/proprietary/etc/bluetooth/network.conf:system/etc/bluetooth/network.conf \
     vendor/zte/q802d/proprietary/etc/permissions/android.hardware.sensor.accelerometer.xml:system/etc/permissions/android.hardware.sensor.accelerometer.xml \
     vendor/zte/q802d/proprietary/etc/permissions/btmultisim.xml:system/etc/permissions/btmultisim.xml \
     vendor/zte/q802d/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
